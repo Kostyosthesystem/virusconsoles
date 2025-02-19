@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string>
 
-#define TIMEOUT_SECONDS 600  // 10 минут
+#define TIMEOUT_SECONDS 600
 #define PASSWORD "letmein"
 
 bool isUnlocked = false;
